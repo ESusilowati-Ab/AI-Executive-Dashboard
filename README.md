@@ -1,4 +1,4 @@
-# 📊 AI Data Dashboard
+# 📊 AI Executive Dashboard
 
 > An AI-powered interactive data analytics dashboard that automatically profiles datasets, generates insights, and visualizes data with dynamic charts.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-AI Data Dashboard is a web application designed to simplify exploratory data analysis (EDA). Users can upload CSV datasets and instantly receive dataset profiling, summary statistics, interactive visualizations, and AI-assisted insights without writing code.
+AI Executive Dashboard is a web application designed to simplify exploratory data analysis (EDA). Users can upload CSV datasets and instantly receive dataset profiling, summary statistics, interactive visualizations, and AI-assisted insights without writing code.
 
 The project demonstrates modern data analytics workflows by combining frontend visualization, backend data processing, and AI-assisted analytics.
 
@@ -87,7 +87,7 @@ The project demonstrates modern data analytics workflows by combining frontend v
 ## 📂 Project Structure
 
 ```text
-AI-Data-Dashboard/
+AI-Executive-Dashboard/
 │
 ├── backend/
 │   ├── api/
@@ -118,7 +118,7 @@ AI-Data-Dashboard/
 ```bash
 git clone https://github.com/yourusername/AI-Data-Dashboard.git
 
-cd AI-Data-Dashboard
+cd AI-Executive-Dashboard
 ```
 
 ### Backend
